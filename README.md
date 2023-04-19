@@ -12,7 +12,7 @@ Execute o seguinte comando no terminal:
 
 Faça o import da collection no Postman e rode a collection conforme vídeo abaixo
 
-![2023-04-19_00h30_24](https://user-images.githubusercontent.com/87156630/232959967-e4998640-ef9b-48f5-95e2-1d5bb977c704.gif)
+![2023-04-19_00h39_31](https://user-images.githubusercontent.com/87156630/232961299-b1f2795e-1cf6-4033-93bf-f0e98a5ceece.gif)
 
 ### Utilizando o Newman HTML Report
 
@@ -24,4 +24,4 @@ Execute o seguinte comando no terminal para gerar o relatório:
 
 `newman run TesteServeREST.postman_collection.json -r htmlextra`
 
-![2023-04-19_00h33_32](https://user-images.githubusercontent.com/87156630/232960407-d4a16c37-4b52-4cd4-b843-f71b2771bcae.gif)
+![2023-04-19_00h41_01](https://user-images.githubusercontent.com/87156630/232961329-624ee82a-262e-4a36-9a7e-9a2442d73d3f.gif)
